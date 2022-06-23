@@ -1,3 +1,2 @@
-# analisis_datos_covid/utilities/__pycache__/
-utilities/*
-.DS_Store
+# Byte-compiled / optimized / DLL files
+__pycache__/
